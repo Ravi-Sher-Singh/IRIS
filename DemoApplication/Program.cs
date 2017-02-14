@@ -11,6 +11,7 @@ namespace DemoApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Wish you all the best");
+            Console.WriteLine("this is done on master branch");
         }
     }
 }
